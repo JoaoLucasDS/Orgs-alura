@@ -22,7 +22,8 @@
     "undefined": "expo-google-fonts/montserrat"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.9"
+    "@babel/core": "^7.12.9",
+    "shell-quote": ">=1.7.3"
   },
   "private": true
 }
